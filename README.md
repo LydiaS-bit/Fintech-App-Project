@@ -95,10 +95,10 @@ The goal of this project is to create a data-driven Product Analytics Dashboard 
 
 ## Repository Structure
 - data/
-  - predictive_modelling_csv.csv
+  - product_analytics database on MySQL
 - notebooks/
-  - 01_data_cleaning_and_EDA.ipynb
-  - 02_predictive_modeling.ipynb
+  - 01_product_analytics_EDA.ipynb
+  - 02_predictive_modeling.csv
 - powerbi/
   - CrediLink_Dashboard.pbix
 - images/
