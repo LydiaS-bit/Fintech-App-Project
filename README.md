@@ -94,4 +94,14 @@ The goal of this project is to create a data-driven Product Analytics Dashboard 
 - Enhance Power BI dashboard interactivity with filters, drill-downs, and trend analyses.
 
 ## Repository Structure
+- data/
+  - predictive_modelling_csv.csv
+- notebooks/
+  - 01_data_cleaning_and_EDA.ipynb
+  - 02_predictive_modeling.ipynb
+- powerbi/
+  - CrediLink_Dashboard.pbix
+- images/
+  - dashboard_screenshot.png
+
 
