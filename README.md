@@ -1,5 +1,5 @@
 # Fintech-App-Project
-This is a project on a fintech app of a fast-growing startup in the Sub-saharan Africa.
+Python, SQL, PowerBI,  Excel, Predictive-Modeling, EDA,
 
 # Product Usage & Retention Analytics Dashboard for a Fintech App
 ## Project Summary
