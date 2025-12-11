@@ -1,5 +1,5 @@
 # Fintech-App-Project
-Python, SQL, PowerBI,  Excel, Predictive-Modeling, EDA,
+SQL, Python, PowerBI,  Excel, Predictive Modelling, EDA, Visualization
 
 # Product Usage & Retention Analytics Dashboard for a Fintech App
 ## Project Summary
