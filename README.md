@@ -100,7 +100,7 @@ The goal of this project is to create a data-driven Product Analytics Dashboard 
   - 01_product_analytics_EDA.ipynb
   - 02_predictive_modeling.csv
 - powerbi/
-  - CrediLink_Dashboard.pbix
+  - Product_Analytic_Dashboard.pbix
 - images/
   - dashboard_screenshot.png
 
