@@ -17,11 +17,11 @@ The goal of this project is to create a data-driven Product Analytics Dashboard 
 ## Tools & Technologies
 | Category | Tools |
 |----------|-------|
-| Data Storage & Queries | SQL / PostgreSQL |
+| Data Storage & Queries | SQL / MySQL |
 | Data Cleaning & EDA | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| Visualization | Power BI |
+| Visualization | Power BI | 
 | Predictive Modeling | Logistic Regression, Random Forest |
-| Documentation & Reporting | Excel, Google Slides |
+| Documentation & Reporting | Excel, Google Slides | Ms PowerPoint
 | Dataset Source | Anonymized user data exported from the fintech app |
 
 ## Project Pipeline
@@ -100,8 +100,17 @@ The goal of this project is to create a data-driven Product Analytics Dashboard 
   - 01_product_analytics_EDA.ipynb
   - 02_predictive_modeling.CSV
 - powerbi/
-  - Product_Analytic_Dashboard.pbix
+  - Credilink App_Analytic_Dashboard.pbix
+- presentation/
+  - CrediLink Product Analytics & Retention Dashboard.pptx
+  - CrediLink Product Analytics & Retention Dashboard.pdf
 - images/
   - dashboard_screenshot.png
+- documentation/
+  - CrediLink_Analytics_Template.xlsx
+ 
+
+
+
 
 
