@@ -98,7 +98,7 @@ The goal of this project is to create a data-driven Product Analytics Dashboard 
   - product_analytics database on MySQL
 - notebooks/
   - 01_product_analytics_EDA.ipynb
-  - 02_predictive_modeling.csv
+  - 02_predictive_modeling.CSV
 - powerbi/
   - Product_Analytic_Dashboard.pbix
 - images/
